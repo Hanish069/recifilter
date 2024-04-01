@@ -6,7 +6,7 @@
 
 # Deployment
 
-### [https://recifilter.pythonanywhere.com/](https://recifilter.herokuapp.com/)
+### [https://recifilter.pythonanywhere.com/](https://recifilter.pythonanywhere.com/)
 Disclaimer: The deployment above may not work properly in the long run.
 
 # Technologies
